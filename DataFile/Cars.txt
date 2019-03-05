@@ -1,0 +1,19 @@
+"Name"	"Transmission"	"Cylinders"	"Fuel.Economy"
+"Mazda RX4"	"Manual"	6	21
+"Mazda RX4 wag"	"Manual"	6	21
+"Datsun 710"	"Manual"	4	22.8
+"Hornet 4 Drive"	"Automatic"	6	21.4
+"Hornet Sport"	"Automatic"	8	18.7
+"Valiant"	"Automatic"	6	18.1
+"Mazda RX41"	"Manual"	6	21
+"Mazda RX4 wag1"	"Manual"	6	21
+"Datsun 7101"	"Automatic"	4	22.8
+"Hornet 4 Drive1"	"Automatic"	6	21.4
+"Hornet Sport1"	"Automatic"	8	18.7
+"Valiant2"	"Manual"	6	18.1
+"Mazda RX42"	"Manual"	6	21
+"Mazda RX4 wag2"	"Manual"	6	21
+"Datsun 7102"	"Automatic"	4	22.8
+"Hornet 4 Drive2"	"Automatic"	6	21.4
+"Hornet Sport2"	"Automatic"	8	18.7
+"Valiant2"	"Automatic"	6	18.1

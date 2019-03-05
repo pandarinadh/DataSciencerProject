@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<classroom>
+	<student>
+		<name>Raj</name>
+		<physics>70</physics>
+		<chemistry>60</chemistry>
+	</student>
+	<student>
+		<name>Rahul</name>
+		<physics>75</physics>
+		<chemistry>66</chemistry>
+	</student>
+	<student>
+		<name>Priya</name>
+		<physics>76</physics>
+		<chemistry>66</chemistry>
+	</student>
+	<student>
+		<name>Poonam</name>
+		<physics>73</physics>
+		<chemistry>63</chemistry>
+	</student>
+</classroom>
